@@ -1,0 +1,5 @@
+2024-03-22 16:39:26.547 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 21ms.
+2024-03-22 16:39:27.209 [info] Started local extension host with pid 113246.
+2024-03-22 16:39:33.456 [info] [perf] Render performance baseline is 362ms
+2024-03-22 16:39:38.978 [info] Started local extension host with pid 113309.
+2024-03-22 16:39:45.458 [info] [perf] Render performance baseline is 229ms
